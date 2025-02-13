@@ -11,7 +11,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 |--------|--------|
-|Configurando Git|  xxx  |
+|Aula 01|  [Resumo]()  |
+|Aula 02|  [Resumo]()  |
 
 ## 💻 Comandos Git
 ### Comandos de configuração Git
