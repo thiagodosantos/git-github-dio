@@ -7,11 +7,23 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 - [Documentação Github](https://docs.github.com/)
 
 
-## 💻 Resumo das Aulas
+## 📄 Resumo das Aulas
 
 | Aulas | Resumos |
 |--------|--------|
 |Configurando Git|  xxx  |
+
+## 💻 Comandos Git
+### Comandos de configuração Git
+- git config --global user.name " Nome "
+- git config --global user.email " E-mail "
+- git config --global credential.helper store ou cache
+- git add [Nome do arquivo]
+- git add .
+- git status
+- git commit -m "Mensagem sobre o commit"
+- git log
+- git restore [Nome do arquivo]
 
 ## 🔎 Referências
 
